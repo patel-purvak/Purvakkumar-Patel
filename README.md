@@ -20,5 +20,14 @@ Proven track record of creating applications from scratch for startups and devel
 
 📫 How to reach me hello2purvak@gmail.com, +1(519)721-8359.
 
-Languages and Tools:
-android kotlin Java
+**SKILLS** 
+
+Programming Languages: Java, Kotlin 
+Development Tools: Android Studio, Git, Gradle, Bitbucket, Jira, Slack, Confluence, IntelliJ 
+Database: SQLite, Room, Realm, NoSQL (including Firebase Firestore & Realtime)  
+Architectural Patterns: MVC, MVP, MVVM, MVI 
+Networking: Retrofit, Volley, OkHttpClient 
+Methodologies: Agile, Scrum, TDD (Test-Driven Development) 
+Operating Systems: Windows, Linux 
+Payment Gateways: Razer Pay, G-Pay, In-App Purchases, Electronic Payments 
+Application Development: Android SDK, Activity, Fragment, Service, Broadcast Receiver, Event Bus, Material Design, Work Manager, Job Scheduler, RxJava, Coroutines, Threading, Offline Storage, Location Sharing & Tracking, RESTful APIs, JSON Parser-GSON, Cloud Messaging APIs, third-party libraries, Firebase Products, Google Play Services, Google Maps API, Postman, POS Terminals Application, Bluetooth, Parse Server, JUnit 
